@@ -12,7 +12,7 @@
     />
     <div class="card-body">
       <h5 class="card-title fw-bold text-center" :title="blog.title">
-        <div>{{ blog.title }}</div>
+        <!-- <div>{{ blog.title }}</div> -->
       </h5>
       <hr class="mx-3" />
       <p class="card-text" :title="blog.short_description">
